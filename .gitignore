@@ -3,4 +3,3 @@
 __pycache__/
 Data/twcs.csv
 Data/dialogs.txt
-*.pkl
