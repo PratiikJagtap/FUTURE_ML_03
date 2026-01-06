@@ -4,3 +4,6 @@ scikit-learn
 joblib
 pydantic
 numpy
+python-telegram-bot
+python-dotenv
+httpx
